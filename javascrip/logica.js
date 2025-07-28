@@ -1,8 +1,4 @@
-
-
-
-document.querySelector("h6").addEventListener("click",function() {
- this.textContent = "Name: ¡Cambiaste el nombre!";   
-  console.log("que jeso");
-  });
+document.getElementById("123").addEventListener("click",  function (){ 
+     alert("xd"); 
+});
 
