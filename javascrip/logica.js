@@ -1,4 +1,4 @@
-document.getElementById("123").addEventListener("click",  function (){ 
+document.get.addEventListener("click",  function (){ 
      alert("xd"); 
 });
 
